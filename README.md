@@ -1,0 +1,2 @@
+# Matlab
+metodo de jacobi
